@@ -1,3 +1,6 @@
+Nome: Antony William Ramalho Vieira
+
+
 Questão 1
 Sim, pois dessa forma e mais fácil separando 2 tipos especiais de transação compra e reserva, que adquirem características da classe pai TRANSAÇÃO, seguindo a primeira regra de uso de herança, fazendo com que o objeto não tenha que mudar para outra classe  e as subclasses estendem a superclasse mas não repetem as variáveis impedindo assim override 
 
